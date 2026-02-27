@@ -81,9 +81,4 @@ O projeto foi desenvolvido com arquitetura **MVC simplificada**, separando clara
 - Git (opcional, para clonar o repositório)
 
 ### Passo 1: Clonar o Repositório
-
-```bash
-# Usando HTTPS
-git clone https://github.com/teu-utilizador/sistema-geolocalizacao.git
-
-# Ou fazer download do ZIP e extrair
+# Fazer download do ZIP e extrair
